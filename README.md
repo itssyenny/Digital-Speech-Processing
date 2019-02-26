@@ -11,9 +11,9 @@ Topic : Implementing Discrete Hidden Markov Model
 
 ### Flowchat
 
-![img1](image/img1)
-![img2](image/img2)
-![img3](image/img3)
+![img1](image/img1.png)
+![img2](image/img2.png)
+![img3](image/img3.png)
 
 ## Part 2
 Topic : HMM Training and Testing
@@ -22,7 +22,7 @@ Topic : HMM Training and Testing
 - Hidden Markov Model Toolkit (HTK)
 
 ### Flowchart
-![img4](image/img4)
+![img4](image/img4.png)
 
 ## Part 3
 
